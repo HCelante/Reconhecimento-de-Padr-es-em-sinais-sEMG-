@@ -17,3 +17,6 @@ Movimentos:
 - Cilíndrico
 - Gancho
 - Pinça
+
+
+![movimentos](grasps_en.PNG)
